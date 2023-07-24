@@ -1,0 +1,17 @@
+.nav-links{
+    text-decoration: none;
+    margin: 10px;
+    color: #4E9F3D;
+}
+.linkholder{
+    display: flex;
+    margin-left: auto;
+    justify-content: end;
+
+}
+nav{
+    display: flex;
+    align-items: center;
+    background-color: #1E5128;
+
+}
